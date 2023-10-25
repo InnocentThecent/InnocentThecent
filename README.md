@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @InnocentThecent
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on developin much more projects
+- 🌱 I’m learning Python
+- 💞️ I’m looking to collaborate on developing much more projects
 - 📫 How to reach me... Email: muragijimanainnocent3@gmail.com
 
 <!---
